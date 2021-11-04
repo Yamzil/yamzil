@@ -11,4 +11,3 @@ How to reach me: yamzil@student.1337.ma
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamzil&theme=dark&show_icons=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?Yamzil=<YAMZIL>&theme=<THEME_NAME>" />
