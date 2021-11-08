@@ -5,7 +5,7 @@
 
 I am currently studying at 1337 (42 network) ,also an Economics student !
 
-I am currently learning C
+I am currently learning C Programming Langauge
 
 How to reach me: yamzil@student.1337.ma
 
