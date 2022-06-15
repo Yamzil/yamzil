@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya Amzil</h1>
-<h3 align="center">Software Development student at 1337 Coding shool -42 Network-</h3>
+<h3 align="center">Software Developer student at 1337 Coding shool -42 Network-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamzil&label=Profile%20views&color=0e75b6&style=flat" alt="yamzil" /> </p>
 
