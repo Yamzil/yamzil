@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **yamzil@student.1337.ma**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
