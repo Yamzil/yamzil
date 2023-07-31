@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamzil&label=Profile%20views&color=0e75b6&style=flat" alt="yamzil" /> </p>
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **Web Dev**
 
 - 💬 Ask me about **C , C++ and Docker**
 
